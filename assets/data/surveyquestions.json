@@ -1,0 +1,148 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "key": "q1",
+      "question": "Have you noticed any sweet or fruity smells that you don't really recognize on your child's stuff?",
+      "options": [
+        { "text": "Yes", "value": "yes", "nextId": 2 },
+        { "text": "No", "value": "no", "nextId": 3 }
+      ]
+    },
+    {
+      "id": 2,
+      "key": "q2",
+      "question": "Have you noticed these smells lingering a lot around your child's room, backpack, or personal items over the last few days?",
+      "options": [
+        { "text": "Yes", "value": "yes", "nextId": 3 },
+        { "text": "No", "value": "no", "nextId": 3 }
+      ]
+    },
+    {
+      "id": 3,
+      "key": "q3",
+      "question": "Is your child suddenly starting to cough a lot and have a very dry mouth?",
+      "options": [
+        { "text": "Yes", "value": "yes", "nextId": 4 },
+        { "text": "No", "value": "no", "nextId": 5 }
+      ]
+    },
+    {
+      "id": 4,
+      "key": "q4",
+      "question": "Is this coughing interfering a lot with things like speaking and eating?",
+      "options": [
+        { "text": "Yes", "value": "yes", "nextId": 5 },
+        { "text": "No", "value": "no", "nextId": 5 }
+      ]
+    },
+    {
+      "id": 5,
+      "key": "q5",
+      "question": "Has your child been trying to be very secretive or conceal where they go and what they do?",
+      "options": [
+        { "text": "Yes", "value": "yes", "nextId": 6 },
+        { "text": "No", "value": "no", "nextId": 7 }
+      ]
+    },
+    {
+      "id": 6,
+      "key": "q6",
+      "question": "Are they spending time away from family a lot without any explanation consistently?",
+      "options": [
+        { "text": "Yes", "value": "yes", "nextId": 7 },
+        { "text": "No", "value": "no", "nextId": 7 }
+      ]
+    },
+    {
+      "id": 7,
+      "key": "q7",
+      "question": "Is your child using some new item that you don't recognize? (vapes can be disguised as stuff like USB's and pens)",
+      "options": [
+        { "text": "Yes", "value": "yes", "nextId": 8 },
+        { "text": "No", "value": "no", "nextId": 9 }
+      ]
+    },
+    {
+      "id": 8,
+      "key": "q8",
+      "question": "If so, are they trying a lot to conceal that item when you ask about it or if you are nearby?",
+      "options": [
+        { "text": "Yes", "value": "yes", "nextId": 9 },
+        { "text": "No", "value": "no", "nextId": 9 }
+      ]
+    },
+    {
+      "id": 9,
+      "key": "q9",
+      "question": "Do you notice metal or plastic pods around your child's stuff?",
+      "options": [
+        { "text": "Yes", "value": "yes", "nextId": 10 },
+        { "text": "No", "value": "no", "nextId": 11 }
+      ]
+    },
+    {
+      "id": 10,
+      "key": "q10",
+      "question": "Are they frequently discarded or in places that you would typically hide something?",
+      "options": [
+        { "text": "Yes", "value": "yes", "nextId": 11 },
+        { "text": "No", "value": "no", "nextId": 11 }
+      ]
+    },
+    {
+      "id": 11,
+      "key": "q11",
+      "question": "Is your child starting to use a lot more gum and mints than usual?",
+      "options": [
+        { "text": "Yes", "value": "yes", "nextId": 12 },
+        { "text": "No", "value": "no", "nextId": 13 }
+      ]
+    },
+    {
+      "id": 12,
+      "key": "q12",
+      "question": "Are they using these mints most frequently when arriving or leaving the house?",
+      "options": [
+        { "text": "Yes", "value": "yes", "nextId": 13 },
+        { "text": "No", "value": "no", "nextId": 13 }
+      ]
+    },
+    {
+      "id": 13,
+      "key": "q13",
+      "question": "Is your child experiencing a lot of mood swings? (These could be just adolescence)",
+      "options": [
+        { "text": "Yes", "value": "yes", "nextId": 14 },
+        { "text": "No", "value": "no", "nextId": 15 }
+      ]
+    },
+    {
+      "id": 14,
+      "key": "q14",
+      "question": "Are these mood swings mostly happening after coming back from school or just being alone in general?",
+      "options": [
+        { "text": "Yes", "value": "yes", "nextId": 15 },
+        { "text": "No", "value": "no", "nextId": 15 }
+      ]
+    },
+    {
+      "id": 15,
+      "key": "q15",
+      "question": "Have you caught your child watching a lot of vaping videos?",
+      "options": [
+        { "text": "Yes", "value": "yes", "nextId": 16 },
+        { "text": "No", "value": "no", "nextId": 16 }
+      ]
+    },
+    {
+      "id": 16,
+      "key": "q16",
+      "question": "Have you caught them discussing vaping techniques or watching these videos with friends? (Most illicit activities happen with friends due to peer pressure)",
+      "options": [
+        { "text": "Yes", "value": "yes", "nextId": null },
+        { "text": "No", "value": "no", "nextId": null }
+      ]
+    }
+  ]
+}
